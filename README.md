@@ -4,4 +4,7 @@ Jika anda tertarik untuk menjadi volunter, silahkan lakukan PR(pull-request) pad
 Silahkan gunakan format berikut:<br>
 **\* Nama, [Linkedln/GitHub/Website](Alamat URL).**
 Berikut adalah daftar volunter yang diterima:
-*Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Ayu Aini , [Linkedin]
+(https://www.linkedin.com/in/ayu-aini/).
+
